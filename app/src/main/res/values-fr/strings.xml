@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exemple de localisation</string>
+    <string name="TC">termes &amp; conditions</string>
+    <string name="AboutUs">C\'est nous</string>
+</resources>

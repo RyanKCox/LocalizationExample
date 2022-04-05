@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LocalizationExample</string>
+    <string name="TC">Terms &amp; Conditions</string>
+    <string name="AboutUs">This is us</string>
 </resources>
